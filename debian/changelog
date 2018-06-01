@@ -1,0 +1,9 @@
+ros-kinetic-open-manipulator-perceptions (1.0.0-1jessie) jessie; urgency=high
+
+  * added new open_manipulator_perceptions package
+  * added perception packages as AR marker, Object recognition and so on
+  * Contributors: Darby Lim
+
+ -- Pyo <pyo@robotis.com>  Thu, 31 May 2018 15:00:00 -0000
+
+
